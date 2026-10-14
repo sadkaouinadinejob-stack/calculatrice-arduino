@@ -1,0 +1,12 @@
+# Build files
+.pio/
+build/
+*.hex
+*.elf
+*.bin
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
